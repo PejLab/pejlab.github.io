@@ -17,8 +17,7 @@ title: PejLab
 email: pejman@scripps.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Pejlab at the Seattle Children's Research Institute and the University of Washington School of Medicine and department of Genome Sciences
-baseurl: "/pejlab.org" # the subpath of your site, e.g. /blog
-# baseurl: "" # For local testing
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pejlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pejminister
 github_username:  pejlab
