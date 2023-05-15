@@ -1,0 +1,51 @@
+# Place in order of most recent departure to oldest
+
+- name: Jessica Sewell
+  title: Executive Assistant
+  image: Jessica_Sewell_gray.jpeg
+
+- name: Sarah Benkoussa
+  title: Intern
+  image: Sarah_Benkoussa_gray.jpg
+
+- name: Cathy Klasen
+  title: Executive Assistant
+  image: ck-bw-1.jpeg
+
+- name: Marcela Mendoza
+  title: Postdoc
+  image: Marcela-2.jpg
+  bio: >-
+    Now: ECOSUR
+
+- name: Bence Kotis
+  title: Research Engineer
+  image: Bence.png
+  bio: >-
+    Now: Red Hat
+
+- name: Yuren Dong
+  title: Intern
+  image: yuren-1.png
+  bio: >-
+    Now: Columbia University MS in Data Science Program
+
+- name: Adam May
+  title: Intern
+  image: Adam_May.jpg
+  bio: >-
+    Now: Johns Hopkins MD-PhD Program
+
+- name: Christina Sousa
+  title: Adjunct Research Assistant
+  image: christina.jpeg
+
+- name: Angela Hoang
+  title: Intern
+  image: angela_image.jpeg
+
+- name: Anant Gandhi
+  title: Intern
+
+- name: Charlene Miciano (UCSD)
+

@@ -1,0 +1,151 @@
+- name: Pejman Mohammadi
+  title: PI, Associate Professor
+  image: Pejman_Mohammadi_gray.jpg
+  bio: >-
+    Pejman is a computational biologist with a background primarily in
+    statistical machine learning and Bayesian data modeling. His current
+    research interests span over practical and theoretical issues that arise in
+    genomics and personalized medicine, focusing on quantitative analysis of
+    regulatory variation in the genome and its application to rare diseases.
+    </p><p>
+    Pejman joined Scripps Research as a tenure track Assistant Professor in
+    2018 and was promoted to Associate Professor in 2021. He holds a Ph.D. in
+    Computational Biology from ETH Zurich and carried out postdoctoral work at
+    the NY Genome Center and Columbia University from 2015 to 2017.
+    </p><p>
+    <a href="mailto:pejman@scripps.edu">pejman@scripps.edu</a>
+
+- name: Pam Graham
+  title: Executive Assistant
+  image: Pam_Graham_gray.jpg
+  bio: >-
+    Pam coordinates, plans, and supports daily operational and administrative
+    functions within the lab. Her current role brings her joy in interacting
+    with and assisting the lab members. In her 21+ years here at Scripps
+    Research, she has worked 10 years as an Accounts Payable Specialist and 10
+    years as a Grants Administrator. When she not working, she enjoys
+    traveling, camping, and doing crafts with her grandchildren.
+    </p><p>
+    <a href="mailto:pgraham@scripps.edu">pgraham@scripps.edu</a>
+
+- name: Nava Ehsan
+  title: Staff Scientist
+  image: nava-bw.png
+  bio: >-
+    Nava joined the lab in 2019 as a postdoctoral research associate. She is
+    working on statistical methods for quantifying the effect of genetic
+    variants on gene regulation. She is interested in challenging problems that
+    improve human health. She received both her PhD and MSc in Computer
+    Engineering from University of Tehran, Iran.
+
+- name: Robert Vogel
+  title: Staff Scientist
+  image: robert_vogel.jpg
+  bio: >-
+    Robert joined the lab as a postdoc in 2021. He is interested in developing
+    and applying computational methods for uncovering novel biological insights
+    from genomic and transcriptomic data. Prior to joining the lab, he worked
+    on developing and applying nonlinear dynamic and statistical models for
+    understanding cellular response variability observed in single-cell
+    measurements and in binary classification tasks. He holds a Ph.D. in
+    Physiology, Biophysics, and Systems Biology from the Weill Cornell Graduate
+    School of Medical Sciences and completed postdoctoral work at IBM Research
+    and the Icahn School of Medicine at Mount Sinai.
+
+- name: Daniel Munro
+  title: Postdoc
+  image: Daniel_Munro_gray.jpeg
+  bio: >-
+    Daniel joined the lab in 2020 and has a joint position in the Palmer Lab at
+    UC San Diego. He is developing methods to identify regulatory variation in
+    outbred rats with applications in psychiatry, as well as tools for
+    extracting biological features from RNA-Seq. He did his PhD in Quantitative
+    and Computational Biology at Princeton University with Mona Singh.
+    <a href="https://danmun.ro/">Personal website</a>
+
+- name: Mehdi Esmaeili-Fard
+  title: Postdoc
+  image: Mehdi_gray.jpg
+  bio: >-
+    Mehdi joined the lab in 2023. He is a computational and quantitative
+    biologist and applies statistical methods to detect genomic variations
+    underlying disease/traits. Mehdi also has wide experience in whole-genome
+    prediction using statistical approaches. At the PejLab, Mehdi's work
+    focuses on applying bioinformatics and computational methods to conduct
+    GWAS and eQTL/single-cell eQTL analyses to identify genes and pathways in
+    the cochlear-vestibular system related to balance in older adults. Mehdi is
+    interested in multi-omics analyses using different layers of genomic data
+    that can lead to a better connection between genotype and phenotype and a
+    better systematic understanding of the information flow across different
+    omics layers. "By the way, our ultimate goal is improving human health :)".
+
+- name: Shiyi Wang
+  title: PhD Student
+  image: shiyi_headshot.jpg
+  bio: >-
+    Shiyi joined the lab in 2020 and is a member of Torbett Lab at the
+    University of Washington, Seattle. She is a graduate student in the
+    Molecular Medicine and Mechanisms of Disease (M3D) Ph.D. Program. Her
+    thesis project focuses on sequencing and analyzing HIV RNA present in
+    virions and studying the development of drug resistance mutations in HIV
+    from HIV-infected patient sera isolates.
+
+- name: Kaushik Ram Ganapathy
+  title: PhD Student
+  image: Kaushik_gray.jpeg
+  bio: >-
+    Kaushik joined the lab in 2021 and is a second-year graduate student. His
+    thesis project involves developing methods for rare variant outlier
+    detection. He is interested in using data science to help improve human
+    health. Before joining Scripps, he co-founded and led GeoACT, a project to
+    model COVID-19 spread in schools working at the San Diego Supercomputer
+    Center with Dr. Ilya Zaslavsky. Kaushik holds a B.S. in Data Science from
+    the Halicioglu Data Science Institute, UC San Diego.
+    <a href="https://scholar.google.com/citations?user=Tji0LIwAAAAJ&hl=en">Google Scholar</a>
+    | <a href="https://www.linkedin.com/in/kaushik-ram-ganapathy/">LinkedIn</a>
+
+- name: Mahdi Shafiei
+  title: PhD Student
+  image: Mahdi_Shafiei_gray.jpg
+  bio: >-
+    Mahdi is a current PhD student who joined the lab in 2022. He has a
+    background in Biostatistics and aims to engage in biomedical discovery and
+    pattern recognition through data mining and to elevate the accuracy of the
+    criteria in our hands for better decision and policymaking. Mahdi is
+    interested in using the power of computers efficiently through modern tools
+    like AI and Machine learning to solve problems in healthcare and medicine.
+    He finished his B.S. in Statistics at Allameh Tabataba’i University and
+    received his MSc in Biostatistics from Tehran University of Medical
+    Science, Iran.
+
+- name: Sarah Silverstein
+  title: MD-PhD Student
+  image: Sarah_Silverstein_gray.jpeg
+  bio: >-
+    Sarah is a fourth-year medical student at Rutgers New Jersey Medical School
+    and current PhD student with the Rutgers-NIH graduate partnership program.
+    She joined the lab of Carsten G Bönnemann MD at the NNDCS/NIH and David
+    Adams MD PhD at the Undiagnosed Diseased Program/NIH in 2020. Her thesis
+    project focuses on using whole transcriptomic sequencing to improve
+    molecular diagnosis in genome and exome negative rare disease patients.
+    Upon graduation, she plans on pursuing clinical training in pediatric
+    neurology with a focus in neurogenetics.
+
+- name: Eric Song
+  title: Undergraduate Researcher
+  image: Eric_gray.jpg
+  bio: >-
+    Eric joined the lab in 2020. He is a third year undergraduate student at UC
+    San Diego studying Data Science and Mathematics-Computer Science. At the
+    lab he is developing statistic models for allelic specific expression
+    analysis and quality control pipelines.
+
+- name: Eric Lu
+  title: Research Assistant
+  image: Eric_Lu_gray.jpg
+  bio: >-
+    Eric is a fourth-year undergraduate researcher working concurrently in the
+    Yao Lab at the University of Arizona. His work at Scripps focuses on
+    analyzing short-read RNA-seq data for allele specific expression in gene
+    isoforms.
+

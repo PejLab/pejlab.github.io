@@ -1,0 +1,103 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+$header-height: 100px;
+
+.site-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    border-top: none;
+}
+
+main {
+    margin-top: $header-height;
+}
+
+.site-header div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.site-title img {
+    height: $header-height - 30px;
+    padding: 15px;
+    display: inline-block;
+}
+
+.page-link {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    color: #555555;
+}
+
+.banner {
+    border-radius: 20px;
+}
+
+.emphasis-box {
+    border-radius: 20px;
+    background: linear-gradient(135deg, rgba(252,185,0,1) 0%, rgba(255,105,0,1) 100%);
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+// Lab members/alumni list
+.person {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.person-image {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border-radius: 20px;
+}
+
+.person-name {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.person-title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #555555;
+    margin-bottom: 1rem;
+}
+
+.person-title {
+    text-align: center;
+    text-transform: uppercase
+}
+
+@media (min-width: 768px) {
+    .person {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+
+    .person-image {
+        margin-right: 1rem;
+        margin-bottom: 0;
+    }
+
+    .person-name, .person-title {
+        text-align: left;
+    }
+}
+
