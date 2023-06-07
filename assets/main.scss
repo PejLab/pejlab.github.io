@@ -53,11 +53,18 @@ main {
 }
 
 // Lab members/alumni list
-.person {
+.member {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 3rem;
+}
+
+.alum {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
 }
 
 .person-image {
@@ -73,20 +80,22 @@ main {
     margin-bottom: 0;
 }
 
-.person-title {
+.member-title {
     text-align: center;
     text-transform: uppercase;
     color: #555555;
     margin-bottom: 1rem;
 }
 
-.person-title {
+.alum-title {
     text-align: center;
-    text-transform: uppercase
+    text-transform: uppercase;
+    color: #555555;
+    margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
-    .person {
+    .member, .alum {
         flex-direction: row;
         align-items: flex-start;
     }
@@ -96,7 +105,7 @@ main {
         margin-bottom: 0;
     }
 
-    .person-name, .person-title {
+    .person-name, .member-title, .alum-title {
         text-align: left;
     }
 }

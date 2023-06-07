@@ -13,30 +13,24 @@
     Computational Biology from ETH Zurich and carried out postdoctoral work at
     the NY Genome Center and Columbia University from 2015 to 2017.
     </p><p>
-    <a href="mailto:pejman@scripps.edu">pejman@scripps.edu</a>
+    <a href="mailto:pejmanm@uw.edu">pejmanm@uw.edu</a>
 
-- name: Pam Graham
-  title: Executive Assistant
-  image: Pam_Graham_gray.jpg
+- name: Amy Crowson
+  title: Lab Administrative Coordinator
+  image: Amy_Crowson_gray.jpg
   bio: >-
-    Pam coordinates, plans, and supports daily operational and administrative
-    functions within the lab. Her current role brings her joy in interacting
-    with and assisting the lab members. In her 21+ years here at Scripps
-    Research, she has worked 10 years as an Accounts Payable Specialist and 10
-    years as a Grants Administrator. When she not working, she enjoys
-    traveling, camping, and doing crafts with her grandchildren.
-    </p><p>
-    <a href="mailto:pgraham@scripps.edu">pgraham@scripps.edu</a>
+    <a href="mailto:amy.crowson@seattlechildrens.org">amy.crowson@seattlechildrens.org</a>
 
-- name: Nava Ehsan
+- name: Daniel Munro
   title: Staff Scientist
-  image: nava-bw.png
+  image: Daniel_Munro_gray.jpeg
   bio: >-
-    Nava joined the lab in 2019 as a postdoctoral research associate. She is
-    working on statistical methods for quantifying the effect of genetic
-    variants on gene regulation. She is interested in challenging problems that
-    improve human health. She received both her PhD and MSc in Computer
-    Engineering from University of Tehran, Iran.
+    Daniel joined the lab in 2020 and has a joint position in the Palmer Lab at
+    UC San Diego. He is developing methods to identify regulatory variation in
+    outbred rats with applications in psychiatry, as well as tools for
+    extracting biological features from RNA-Seq. He did his PhD in Quantitative
+    and Computational Biology at Princeton University with Mona Singh.
+    <a href="https://danmun.ro/">Personal website</a>
 
 - name: Robert Vogel
   title: Staff Scientist
@@ -51,17 +45,6 @@
     Physiology, Biophysics, and Systems Biology from the Weill Cornell Graduate
     School of Medical Sciences and completed postdoctoral work at IBM Research
     and the Icahn School of Medicine at Mount Sinai.
-
-- name: Daniel Munro
-  title: Postdoc
-  image: Daniel_Munro_gray.jpeg
-  bio: >-
-    Daniel joined the lab in 2020 and has a joint position in the Palmer Lab at
-    UC San Diego. He is developing methods to identify regulatory variation in
-    outbred rats with applications in psychiatry, as well as tools for
-    extracting biological features from RNA-Seq. He did his PhD in Quantitative
-    and Computational Biology at Princeton University with Mona Singh.
-    <a href="https://danmun.ro/">Personal website</a>
 
 - name: Mehdi Esmaeili-Fard
   title: Postdoc
@@ -104,20 +87,6 @@
     <a href="https://scholar.google.com/citations?user=Tji0LIwAAAAJ&hl=en">Google Scholar</a>
     | <a href="https://www.linkedin.com/in/kaushik-ram-ganapathy/">LinkedIn</a>
 
-- name: Mahdi Shafiei
-  title: PhD Student
-  image: Mahdi_Shafiei_gray.jpg
-  bio: >-
-    Mahdi is a current PhD student who joined the lab in 2022. He has a
-    background in Biostatistics and aims to engage in biomedical discovery and
-    pattern recognition through data mining and to elevate the accuracy of the
-    criteria in our hands for better decision and policymaking. Mahdi is
-    interested in using the power of computers efficiently through modern tools
-    like AI and Machine learning to solve problems in healthcare and medicine.
-    He finished his B.S. in Statistics at Allameh Tabataba’i University and
-    received his MSc in Biostatistics from Tehran University of Medical
-    Science, Iran.
-
 - name: Sarah Silverstein
   title: MD-PhD Student
   image: Sarah_Silverstein_gray.jpeg
@@ -130,15 +99,6 @@
     molecular diagnosis in genome and exome negative rare disease patients.
     Upon graduation, she plans on pursuing clinical training in pediatric
     neurology with a focus in neurogenetics.
-
-- name: Eric Song
-  title: Undergraduate Researcher
-  image: Eric_gray.jpg
-  bio: >-
-    Eric joined the lab in 2020. He is a third year undergraduate student at UC
-    San Diego studying Data Science and Mathematics-Computer Science. At the
-    lab he is developing statistic models for allelic specific expression
-    analysis and quality control pipelines.
 
 - name: Eric Lu
   title: Research Assistant

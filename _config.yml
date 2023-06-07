@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PejLab
-email: pejman@scripps.edu
+email: pejmanm@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The Pejlab at the Seattle Children's Research Institute and the University of Washington School of Medicine and department of Genome Sciences
+  The PejLab at the Seattle Children's Research Institute and the University of Washington School of Medicine and Department of Genome Sciences
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pejlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pejlab.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pejminister
 github_username:  pejlab
 
@@ -47,4 +47,4 @@ header_pages:
   - title: Tools and Data
     url: https://github.com/pejlab
   - join-us.md
-  # - find-us.md
+  - find-us.md
