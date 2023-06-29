@@ -41,6 +41,7 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+  - index.md
   - research.md
   - title: Publications
     url: https://scholar.google.com/citations?hl=en&user=PCZVnXYAAAAJ&view_op=list_works&sortby=pubdate

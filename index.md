@@ -3,11 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+permalink: /
 ---
 
 ![PejLab group picture](/assets/images/Pejlab_group_pic2.jpg){: .banner}
 
 <br>
+
+# Genomic Data Modeling
 
 We have moved to the [Seattle Children's Research Institute](https://www.seattlechildrens.org/research/research-institute/) as of May 1st, 2023 where we are a part of the [University of Washington School of Medicine](https://www.uwmedicine.org/school-of-medicine), and the department of [Genome Sciences](https://www.gs.washington.edu/). We are hiring at all levels.
 
