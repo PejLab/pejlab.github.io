@@ -31,6 +31,6 @@ P Mohammadi, SE Castel, AA Brown, T Lappalainen.<br>
 - ***Genetic effects on gene expression across 44 human tissues.***<br>
 The GTEx Consortium (P Mohammadi as co-first author).<br>
 *Nature, 2017.*
-- ***Transcription factor regulation of eQTL activity across individuals and tissues.***<br>
-ED Flynn, AL Tsu, S Kasela, S Kim-Hellmuth, F Aguet, KG Ardlie, HJ Bussemaker, P Mohammadi†, T Lappalainen†. (†co-last authors)<br>
-*PLOS Genetics, 2022.*
+- ***Haplotype-aware modeling of cis-regulatory effects highlights the gaps remaining in eQTL data.***<br>
+N Ehsan, Bence M Kotis, SE Castel, EJ Song, N Mancuso, P Mohammadi<br>
+*Nature Communications, 2024.*
