@@ -1,5 +1,20 @@
 # Place in order of most recent departure to oldest
 
+- name: Shiyi Wang
+  title: PhD Student
+  bio: >-
+    Now: Bioinformatics Scientist at Scribe Therapeutics
+
+- name: Eric Lu
+  title: Research Assistant
+  bio: >-
+    Now: MIT Biomedical Engineering PhD program
+
+- name: Athena Tsu
+  title: Research Technician
+  bio: >-
+    Now: NYU MD-PhD program
+
 - name: Nava Ehsan
   title: Staff Scientist
 
@@ -10,15 +25,6 @@
   title: Undergraduate Researcher
   bio: >-
     Now: UC San Diego MS in Computer Science
-
-- name: Pam Graham
-  title: Executive Assistant
-
-- name: Sarah Benkoussa
-  title: Intern
-
-- name: Cathy Klasen
-  title: Executive Assistant
 
 - name: Marcela Mendoza
   title: Postdoc
@@ -44,9 +50,6 @@
   title: Adjunct Research Assistant
 
 - name: Angela Hoang
-  title: Intern
-
-- name: Anant Gandhi
   title: Intern
 
 - name: Charlene Miciano (UCSD)

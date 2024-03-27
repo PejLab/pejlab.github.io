@@ -62,17 +62,6 @@
     better systematic understanding of the information flow across different
     omics layers. "By the way, our ultimate goal is improving human health :)".
 
-- name: Shiyi Wang
-  title: PhD Student
-  image: shiyi_headshot.jpg
-  bio: >-
-    Shiyi joined the lab in 2020 and is a member of Torbett Lab at the
-    University of Washington, Seattle. She is a graduate student in the
-    Molecular Medicine and Mechanisms of Disease (M3D) Ph.D. Program. Her
-    thesis project focuses on sequencing and analyzing HIV RNA present in
-    virions and studying the development of drug resistance mutations in HIV
-    from HIV-infected patient sera isolates.
-
 - name: Kaushik Ram Ganapathy
   title: PhD Student
   image: Kaushik_gray.jpeg
@@ -100,21 +89,3 @@
     Upon graduation, she plans on pursuing clinical training in pediatric
     neurology with a focus in neurogenetics.
 
-- name: Eric Lu
-  title: Research Assistant
-  image: Eric_Lu_gray.jpg
-  bio: >-
-    Eric is a fourth-year undergraduate researcher working concurrently in the
-    Yao Lab at the University of Arizona. His work at Scripps focuses on
-    analyzing short-read RNA-seq data for allele specific expression in gene
-    isoforms.
-
-- name: Athena Tsu
-  title: Research Technician
-  image: Athena_Tsu_gray.jpeg
-  bio: >-
-    Athena joined the lab in 2023. She previously worked in the Lappalainen Lab
-    at the New York Genome Center, focusing on applying bioinformatics and
-    computational methods to study how non-coding variants affect the
-    transcriptome. She holds a B.S. in Biomedical Engineering from Columbia
-    University.
