@@ -12,10 +12,10 @@ We have a long-standing interest in building statistical methods that systematic
 
 We develop new methods that allow for using transcriptome data to increase diagnostic yield for rare disease patients. These include devising appropriate statistical tests for identifying regulatory aberrant genes and developing mathematical models for identifying the most appropriate tissues for transcriptome profiling in each patient. These efforts are in close collaboration with scientists and clinicians at Neuromuscular and Neurogenetic Disorders of Childhood Section at the NIH, Rady Children’s Institute for Genomic Medicine, and the center for Undiagnosed Disease Network in Stanford university. Below are two of our publications in this area.
 
-- ***Transcriptomic signatures across human tissues identify functional rare genetic variation.***<br>
+- [***Transcriptomic signatures across human tissues identify functional rare genetic variation.***](https://www.science.org/doi/10.1126/science.aaz5900)<br>
 N Ferraro, B Strober, J Einson, NS Abell, F Aguet, ..., P Mohammadi†, S Montgomery†, A Battle†.<br>
 *Science, 2020.*
-- ***Genetic regulatory variation in populations informs transcriptome analysis in rare disease.***<br>
+- [***Genetic regulatory variation in populations informs transcriptome analysis in rare disease.***](https://www.science.org/doi/10.1126/science.aay0256)<br>
 P Mohammadi†, S Castel, B Cummings, J Einson, C Sousa, ..., T Lappalainen†.<br>
 *Science, 2019.*
 
@@ -25,12 +25,12 @@ P Mohammadi†, S Castel, B Cummings, J Einson, C Sousa, ..., T Lappalainen†.<
 
 We develop mechanistic models of genetic variation in gene regulation to distill scattered pieces of accumulated knowledge about trends in functional genomic data into unifying theoretical models. These models crystallize our best understanding of the underlying biology and expose the remaining knowledge gaps that remain to be addressed. Using these accurate models of gene regulation, we systematically incorporate the dosage modifying effect of regulatory alleles into genetic association analyses to enhance the resolution of the current genotype-phenotype maps to allow for a more refined mapping of the underlying biological mechanisms that are more generalizable across diverse populations. These efforts are in close collaboration with other scientists in the GTEx consortium and TOPMed project and involve large-scale biobank data from Vanderbilt university bioVU and the UK Biobank. We also contribute to functional analyses of gene expression data ([RatGTEx.org](https://ratgtex.org/)) at the national center of excellence for GWAS in Outbred Rats at UC San Diego. Below are a few of our publications in these areas.
 
-- ***Quantifying the regulatory effect size of cis-acting genetic variation using allelic fold change.***<br>
+- [***Quantifying the regulatory effect size of cis-acting genetic variation using allelic fold change.***](https://genome.cshlp.org/content/27/11/1872.long)<br>
 P Mohammadi, SE Castel, AA Brown, T Lappalainen.<br>
 *Genome Research, 2017.*
-- ***Genetic effects on gene expression across 44 human tissues.***<br>
-The GTEx Consortium (P Mohammadi as co-first author).<br>
-*Nature, 2017.*
-- ***Haplotype-aware modeling of cis-regulatory effects highlights the gaps remaining in eQTL data.***<br>
-N Ehsan, Bence M Kotis, SE Castel, EJ Song, N Mancuso, P Mohammadi<br>
+- [***Multimodal analysis of RNA sequencing data powers discovery of complex trait genetics.***](https://www.biorxiv.org/content/10.1101/2024.05.14.594051v1)<br>
+D Munro, N Ehsan, SM Esmaeili-Fard, A Gusev, AA Palmer, P Mohammadi.<br>
+*bioRxiv, 2024.*
+- [***Haplotype-aware modeling of cis-regulatory effects highlights the gaps remaining in eQTL data.***](https://www.nature.com/articles/s41467-024-44710-8)<br>
+N Ehsan, Bence M Kotis, SE Castel, EJ Song, N Mancuso, P Mohammadi.<br>
 *Nature Communications, 2024.*
