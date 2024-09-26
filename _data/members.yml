@@ -88,6 +88,18 @@
     selection and adaptive introgression. She has a PhD in Bioinformatics and
     Genomics from Penn State and did her postdoc at Cold Spring Harbor Labs.
 
+- name: Katharine Chen
+  title: Postdoc
+  image: Katharine_Chen_gray.png
+  bio: >-
+    Katharine joined the lab as a postdoc in 2024. She is interested in applying
+    and developing computational models to better understand the effects of
+    eQTLs on their target genes using GTEx and other transcriptomic datasets.
+    She holds a PhD in Molecular and Cellular Biology with a specialization in
+    Data Science from the University of Washington, where she worked on
+    developing massively parallel sequencing assays and CRISPR screens for
+    identifying regulators of mRNA translation.
+
 - name: Kaushik Ram Ganapathy
   title: PhD Student
   image: Kaushik_gray.jpeg
@@ -101,6 +113,21 @@
     the Halicioglu Data Science Institute, UC San Diego.
     <a href="https://scholar.google.com/citations?user=Tji0LIwAAAAJ&hl=en">Google Scholar</a>
     | <a href="https://www.linkedin.com/in/kaushik-ram-ganapathy/">LinkedIn</a>
+
+- name: Michael Yung
+  title: PhD Student
+  image: Michael_Yung_gray.jpg
+  bio: >-
+    Michael joined the lab in 2024 and is a first-year graduate student. His
+    project will involve the analysis of genetic determinants of regulatory
+    variation in humans using previously collected and publicly available RNA
+    sequencing data. He is interested in using statistical learning and
+    high-dimensional data to solve complex problems in genetics and genomics.
+    Before joining the lab, he was working with Bruce Weir on a research project
+    related to the interpretation of Y-STR evidence, particularly on estimating
+    population-specific values of theta for Y-STR Profiles. Michael holds a B.S.
+    in Statistics and B.S. in informatics from University of Washington.
+    <a href="https://www.linkedin.com/in/mengyung/">LinkedIn</a>
 
 - name: Sarah Silverstein
   title: MD-PhD Student
