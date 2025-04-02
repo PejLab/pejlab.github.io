@@ -28,9 +28,9 @@ We develop mechanistic models of genetic variation in gene regulation to distill
 - [***Quantifying the regulatory effect size of cis-acting genetic variation using allelic fold change.***](https://genome.cshlp.org/content/27/11/1872.long)<br>
 P Mohammadi, SE Castel, AA Brown, T Lappalainen.<br>
 *Genome Research, 2017.*
-- [***Multimodal analysis of RNA sequencing data powers discovery of complex trait genetics.***](https://www.biorxiv.org/content/10.1101/2024.05.14.594051v1)<br>
+- [***Multimodal analysis of RNA sequencing data powers discovery of complex trait genetics.***](https://www.nature.com/articles/s41467-024-54840-8)<br>
 D Munro, N Ehsan, SM Esmaeili-Fard, A Gusev, AA Palmer, P Mohammadi.<br>
-*bioRxiv, 2024.*
+*Nature Communications, 2024.*
 - [***Haplotype-aware modeling of cis-regulatory effects highlights the gaps remaining in eQTL data.***](https://www.nature.com/articles/s41467-024-44710-8)<br>
 N Ehsan, Bence M Kotis, SE Castel, EJ Song, N Mancuso, P Mohammadi.<br>
 *Nature Communications, 2024.*

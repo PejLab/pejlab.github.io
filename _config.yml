@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The PejLab at the Seattle Children's Research Institute and the University of Washington School of Medicine and Department of Genome Sciences
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pejlab.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pejminister
-github_username:  pejlab
+# twitter_username: pejminister
+github_username:  PejLab
 
 # Build settings
 markdown: kramdown
@@ -45,7 +45,6 @@ header_pages:
   - research.md
   - title: Publications
     url: https://scholar.google.com/citations?hl=en&user=PCZVnXYAAAAJ&view_op=list_works&sortby=pubdate
-  - title: Tools and Data
-    url: https://github.com/pejlab
+  - tools-and-data.md
   - join-us.md
   - find-us.md

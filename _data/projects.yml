@@ -1,0 +1,52 @@
+# Used to populate the Tools and Data page
+
+- name: aFC-n
+  description: aFC-n is a multi-eQTL generalization of the allelic fold change (aFC) method for estimating regulatory effect sizes. We provide effect size estimates for GTEx tissues in a Zenodo repository.
+  image: afcn.png
+  links:
+    - name: GitHub
+      url: https://github.com/PejLab/aFCn
+    - name: Zenodo
+      url: https://zenodo.org/records/10002703
+    - name: Paper
+      url: https://www.nature.com/articles/s41467-024-44710-8
+
+- name: ANEVA
+  description: ANEVA (analysis of expression variation) quantifies genetic variation in gene dosage from allelic expression (AE) data in a population. ANEVA-DOT applies these variance estimates in a dosage outlier test for use in rare disease diagnostic pipelines.
+  image: aneva.png
+  links:
+    - name: ANEVA code
+      url: https://github.com/PejLab/ANEVA
+    - name: ANEVA-DOT code
+      url: https://github.com/PejLab/ANEVA-DOT
+    - name: Paper
+      url: https://www.science.org/doi/10.1126/science.aay0256
+
+- name: Pantry
+  description: Pantry is a framework to efficiently generate diverse RNA phenotypes from RNA sequencing data and perform downstream integrative analyses with genetic data. We provide results for GTEx tissues and Geuvadis in a Zenodo repository, and a web portal for exploring the results.
+  image: pantry.png
+  links:
+    - name: Pantry Portal
+      url: https://pantry.pejlab.org
+    - name: GitHub
+      url: https://github.com/PejLab/Pantry
+    - name: Zenodo
+      url: https://zenodo.org/records/13922139
+    - name: Paper
+      url: https://www.nature.com/articles/s41467-024-54840-8
+
+- name: RatGTEx
+  description: RatGTEx provides gene expression, eQTL, and sQTL data for multiple rat tissues, with particular focus on the brain and applications to behavioral research in outbred rats.
+  image: ratgtex.png
+  links:
+    - name: RatGTEx Portal
+      url: https://ratgtex.org
+    - name: Rat TWAS Hub
+      url: https://twas.ratgtex.org
+    - name: GitHub
+      url: https://github.com/daniel-munro/ratgtex-pipeline
+    - name: Pilot paper
+      url: https://academic.oup.com/nar/article/50/19/10882/6764417
+    - name: NIDA Center
+      url: https://ratgenes.org
+
