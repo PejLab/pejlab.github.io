@@ -120,6 +120,16 @@
     developing massively parallel sequencing assays and CRISPR screens for
     identifying regulators of mRNA translation.
 
+- name: Tom Willis
+  title: Postdoc
+  bio: >-
+    Tom joined the lab as a postdoc in 2025. He is interested in the role of
+    common variants in rare disease and methods which leverage cross-trait
+    sharing of genetic architecture. During his PhD he studied the role of
+    common variants in antibody deficiencies and was supervised by Chris Wallace
+    at the MRC Biostatistics Unit, Cambridge. He is also interested in workflow
+    automation and reproducibility.
+
 - name: Kaushik Ram Ganapathy
   title: PhD Student
   image: Kaushik_gray.jpeg
@@ -172,4 +182,14 @@
     molecular diagnosis in genome and exome negative rare disease patients.
     Upon graduation, she plans on pursuing clinical training in pediatric
     neurology with a focus in neurogenetics.
+
+- name: Congyu Hang
+  title: Master's Student
+  image: Congyu_Hang_gray.jpg
+  bio: >-
+    She holds a B.S. in Statistics Specialist Quantitative Finance from
+    University of Toronto. She is currently pursuing her master of Biostatistics
+    at University of Washington. Her current project is about the application of
+    machine learning methods for modeling ASE data to uncover latent regulatory
+    variation in gene expression.
 
