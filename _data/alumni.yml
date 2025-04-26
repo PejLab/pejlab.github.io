@@ -1,5 +1,13 @@
 # Place in order of most recent departure to oldest
 
+- name: Eric Rynes
+  title: Staff Scientist
+  image: Eric_Rynes_gray.jpg
+
+- name: Robert Vogel
+  title: Staff Scientist
+  image: robert_vogel.jpg
+
 - name: Shiyi Wang
   title: PhD Student
   bio: >-

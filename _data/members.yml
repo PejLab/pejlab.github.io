@@ -32,20 +32,6 @@
     and Computational Biology at Princeton University with Mona Singh.
     <a href="https://danmun.ro/">Personal website</a>
 
-- name: Robert Vogel
-  title: Staff Scientist
-  image: robert_vogel.jpg
-  bio: >-
-    Robert joined the lab as a postdoc in 2021. He is interested in developing
-    and applying computational methods for uncovering novel biological insights
-    from genomic and transcriptomic data. Prior to joining the lab, he worked
-    on developing and applying nonlinear dynamic and statistical models for
-    understanding cellular response variability observed in single-cell
-    measurements and in binary classification tasks. He holds a Ph.D. in
-    Physiology, Biophysics, and Systems Biology from the Weill Cornell Graduate
-    School of Medical Sciences and completed postdoctoral work at IBM Research
-    and the Icahn School of Medicine at Mount Sinai.
-
 - name: Yan Hao
   title: Staff Scientist
   image: Yan_Hao_gray.jpg
@@ -58,26 +44,6 @@
     cancers. Yan holds a PhD in Cellular Biology from the University of Michigan
     and a Master's degree in Computer Science from Georgia Tech. Her
     postdoctoral work was conducted at AbbVie.
-
-- name: Eric Rynes
-  title: Staff Scientist
-  image: Eric_Rynes_gray.jpg
-  bio: >-
-    Eric joined the lab in 2024, and has a joint position in
-    <a href="https://pavel-dinulab.com/" target="_blank">Mara Pavel-Dinu&rsquo;s
-    lab</a>. He has extensive prior experience performing direct and applied
-    analyses of DNase-seq data for the international ENCODE project. Before
-    that, he performed software and method development in the Kuhner-Felsenstein
-    theoretical population genetics lab in the University of Washington&rsquo;s
-    Department of Genome Sciences. From 2021-2024, he created custom software
-    for analysis and quality control of biopharmaceutical product development as
-    a senior data scientist at Just-Evotec Biologics, six blocks north of the
-    PejLab. He holds a Graduate Certificate in Statistical Genetics and an
-    M.Mus. degree in violin performance from the University of Washington, an
-    M.S. in physics from the University of Illinois, and a B.A. with honors in
-    physics from the University of Chicago. Details of Eric&rsquo;s upcoming and
-    past performances can be found
-    <a href="http://ericrynes.com/performances.html" target="_blank">here</a>.
 
 - name: Mehdi Esmaeili-Fard
   title: Postdoc
@@ -122,6 +88,7 @@
 
 - name: Tom Willis
   title: Postdoc
+  image: Tom_Willis_gray.jpg
   bio: >-
     Tom joined the lab as a postdoc in 2025. He is interested in the role of
     common variants in rare disease and methods which leverage cross-trait
