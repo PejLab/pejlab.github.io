@@ -7,7 +7,7 @@ title: Home
 permalink: /
 ---
 
-![PejLab group picture](/assets/images/Pejlab_group_pic2.jpg){: .banner}
+![PejLab group picture](/assets/images/group_pic.jpg){: .banner}
 
 <br>
 
