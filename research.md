@@ -26,8 +26,9 @@ N Ferraro, B Strober, J Einson, NS Abell, F Aguet, ..., P Mohammadi†, S Montgo
 - [***Genetic regulatory variation in populations informs transcriptome analysis in rare disease.***](https://www.science.org/doi/10.1126/science.aay0256)<br>
 P Mohammadi†, S Castel, B Cummings, J Einson, C Sousa, ..., T Lappalainen†.<br>
 *Science, 2019.*
-- [***Benchmarking RNA-seq Tools for Real-World Diagnostic Applications.***](https://pubmed.ncbi.nlm.nih.gov/41646813/)<br>
-*Preprint, 2026.*
+- [***Improved Identification of Large-effect Rare Genetic Variants using Haplotype Aggregated Allele-specific Expression Data.***](https://pubmed.ncbi.nlm.nih.gov/41445643/)<br>
+K R Ganapathy, M Broly, S Silverstein, M Mendoza, E Song, B Kotis, P Hoffman, PCGC Consortium, A Torkamani, D R Adams, C Bonnemann, T Lappalainen, P Mohammadi.<br>
+*Preprint, 2025.*
 
 ## Regulatory genomics and effect-size modeling
 
