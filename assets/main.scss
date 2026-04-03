@@ -133,8 +133,8 @@ main {
 
 .research-figure {
     display: block;
-    max-width: 760px;
-    width: 100%;
+    max-width: 480px;
+    width: min(100%, 480px);
     margin: 1.5rem auto;
 }
 
