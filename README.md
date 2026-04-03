@@ -14,4 +14,15 @@ This site uses [Jekyll](https://jekyllrb.com/) to compile the markdown content a
 - The alumni info is in `_data/alumni.yml`.
   - Currently photos are not included for alumni, and bios should only include their current job.
 
-After making changes, you can test the site locally by running `bundle exec jekyll serve` and going to `localhost:4000` in a web browser. You will need to have Ruby and Jekyll installed. See [here](https://jekyllrb.com/docs/installation/) for instructions. This compiles the site into `_site` and serves it locally. That folder will not be pushed to the repository, and only the source files are used to compile the site on GitHub Pages.
+For local preview on this machine, use `bin/preview` and open `http://127.0.0.1:4000`. This uses the repo's `Gemfile.preview` and leaves the production GitHub Pages dependency stack in `Gemfile` untouched.
+
+If you need to install the local preview gems first, run:
+
+```bash
+CPLUS_INCLUDE_PATH="$(xcrun --show-sdk-path)/usr/include/c++/v1" \
+MAKE='make CXX=clang++' \
+BUNDLE_GEMFILE=Gemfile.preview \
+bundle install
+```
+
+The older GitHub Pages gem stack in `Gemfile` is still the production source of truth for deployment. The preview setup only exists to make local development smoother on modern macOS/Ruby toolchains.

@@ -4,13 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-We have a long-standing interest in building statistical methods that systematically incorporate biochemical principles or expert knowledge to effectively extract interpretable results from otherwise limited and noisy experimental data. Our lab applies this strategy to developing quantitative models of genetic regulatory variation. Genetic variation in the regulatory genome plays a major role in human phenotypic variation and disease susceptibility. Currently, our ability to interpret regulatory variation in human genome is hampered by over-simplistic models and limited statistical power. Our efforts to address some of the challenges in interpreting regulatory genome fall broadly into the following two categories:
+We build statistical and machine learning methods that formalize biochemical principles and expert knowledge into quantitative models. Across our work, the goal is not only prediction, but more interpretable inference: models that make regulatory mechanisms measurable, expose where current assumptions fail, and support better decision-making from noisy or limited genomic data.
 
-**1. Rare disease diagnostics.** Rare diseases are conditions that affect less than 1 in 2000 people in the population. There are >7000 identified rare diseases affecting up to 30 million Americans. The large majority of rare diseases are genetic and manifest early on in life, often with severe health consequences. In more than 60% of the cases in which a rare genetic disease is suspected, whole-genome sequencing fails to identify coding variants that lead to protein truncation or are otherwise potentially pathogenic. Rare variants that affect gene regulation are expected to underlie pathogenesis in some of these cases.
+Our research is centered on regulatory genomics and transcriptomics, with strong connections to rare disease, common disease genetics, and translational collaborations. A recurring theme is to use mechanistic models of molecular regulation to improve how we connect genomic variation to phenotype.
+
+## Rare disease genomics
+
+Transcriptome data can reveal pathogenic regulatory effects that are missed by genome or exome sequencing alone. We develop methods that use allelic expression, dosage outliers, and tissue-aware transcriptome analysis to improve molecular diagnosis in rare disease settings, particularly when likely causal coding variants are absent.
 
 ![ANEVA-DOT figure](/assets/images/research_1.png)
 
-We develop new methods that allow for using transcriptome data to increase diagnostic yield for rare disease patients. These include devising appropriate statistical tests for identifying regulatory aberrant genes and developing mathematical models for identifying the most appropriate tissues for transcriptome profiling in each patient. These efforts are in close collaboration with scientists and clinicians at Neuromuscular and Neurogenetic Disorders of Childhood Section at the NIH, Rady Children’s Institute for Genomic Medicine, and the center for Undiagnosed Disease Network in Stanford university. Below are two of our publications in this area.
+These efforts include statistical tests for regulatory aberration, models for prioritizing tissues for transcriptome profiling, and collaborations that keep the work grounded in real diagnostic settings. We collaborate broadly with clinicians and scientists working on pediatric and undiagnosed rare disease cohorts.
+
+Recent work in this area includes diagnostic benchmarking and extensions of the ANEVA framework, including the ANEVA-h preprint.
+
+Selected publications:
 
 - [***Transcriptomic signatures across human tissues identify functional rare genetic variation.***](https://www.science.org/doi/10.1126/science.aaz5900)<br>
 N Ferraro, B Strober, J Einson, NS Abell, F Aguet, ..., P Mohammadi†, S Montgomery†, A Battle†.<br>
@@ -18,19 +26,46 @@ N Ferraro, B Strober, J Einson, NS Abell, F Aguet, ..., P Mohammadi†, S Montgo
 - [***Genetic regulatory variation in populations informs transcriptome analysis in rare disease.***](https://www.science.org/doi/10.1126/science.aay0256)<br>
 P Mohammadi†, S Castel, B Cummings, J Einson, C Sousa, ..., T Lappalainen†.<br>
 *Science, 2019.*
+- [***Benchmarking RNA-seq Tools for Real-World Diagnostic Applications.***](https://pubmed.ncbi.nlm.nih.gov/41646813/)<br>
+*Preprint, 2026.*
 
-**2. Gene Regulation and Common disease.** Around 90% of genomic loci associated with common diseases, such as cancer, type 2 diabetes, or cardiovascular diseases, fall outside the gene boundaries and are thus hard to interpret. In recent years, there has been a deluge of data from genome-wide functional assays. The rapid expansion of computational techniques for mapping genetic correlates of intermediate molecular traits, such as gene expression, has offered opportunities to explore molecular mechanisms that underlie disease susceptibility. Over the past decade, quantitative trait loci mapping studies have identified tens of thousands of common genetic variants affecting the regulation of virtually every protein-coding gene in the human genome. Various biological aspects of these genetic associations, including genomic context and tissue specificity, disease-modifying effects, contribution to common traits, and the effect of local ancestry are established.
+## Regulatory genomics and effect-size modeling
+
+Most disease-associated loci act through gene regulation rather than protein-coding sequence, but regulatory effects are difficult to interpret with oversimplified models. We develop haplotype-aware and effect-size-oriented models that quantify how cis-regulatory variants change gene dosage, how multiple variants combine, and where current eQTL resources still leave important gaps.
 
 ![Allele-specific expression figure](/assets/images/research_2.png)
 
-We develop mechanistic models of genetic variation in gene regulation to distill scattered pieces of accumulated knowledge about trends in functional genomic data into unifying theoretical models. These models crystallize our best understanding of the underlying biology and expose the remaining knowledge gaps that remain to be addressed. Using these accurate models of gene regulation, we systematically incorporate the dosage modifying effect of regulatory alleles into genetic association analyses to enhance the resolution of the current genotype-phenotype maps to allow for a more refined mapping of the underlying biological mechanisms that are more generalizable across diverse populations. These efforts are in close collaboration with other scientists in the GTEx consortium and TOPMed project and involve large-scale biobank data from Vanderbilt university bioVU and the UK Biobank. We also contribute to functional analyses of gene expression data ([RatGTEx.org](https://ratgtex.org/)) at the national center of excellence for GWAS in Outbred Rats at UC San Diego. Below are a few of our publications in these areas.
+This work draws heavily on large-scale functional genomics resources such as GTEx and related biobank-scale datasets. We use these models both to improve basic understanding of gene regulation and to refine downstream association analyses across diverse populations.
+
+Selected publications:
 
 - [***Quantifying the regulatory effect size of cis-acting genetic variation using allelic fold change.***](https://genome.cshlp.org/content/27/11/1872.long)<br>
 P Mohammadi, SE Castel, AA Brown, T Lappalainen.<br>
 *Genome Research, 2017.*
-- [***Multimodal analysis of RNA sequencing data powers discovery of complex trait genetics.***](https://www.nature.com/articles/s41467-024-54840-8)<br>
-D Munro, N Ehsan, SM Esmaeili-Fard, A Gusev, AA Palmer, P Mohammadi.<br>
-*Nature Communications, 2024.*
 - [***Haplotype-aware modeling of cis-regulatory effects highlights the gaps remaining in eQTL data.***](https://www.nature.com/articles/s41467-024-44710-8)<br>
 N Ehsan, Bence M Kotis, SE Castel, EJ Song, N Mancuso, P Mohammadi.<br>
 *Nature Communications, 2024.*
+
+## Multimodal transcriptomics and complex trait genomics
+
+RNA sequencing supports a wide range of phenotypes beyond bulk gene expression, including isoform usage, allele-specific expression, splicing, alternative polyadenylation, transcription initiation, and RNA stability. We develop extensible computational frameworks that turn these measurements into coherent quantitative phenotypes and analyze them jointly with genetic data.
+
+This work is closely tied to our efforts in complex trait genetics. By expanding the set of RNA-derived phenotypes that can be mapped and integrated with association studies, we improve the biological interpretation of GWAS signals and create more informative entry points for TWAS, colocalization, and downstream mechanistic analyses. Recent work in this area includes Pantry and the LaDDR preprint on data-driven RNA phenotyping.
+
+![Pantry schematic](/assets/images/research_3.png){: .research-figure}
+
+Representative public resources and collaborations include [Pantry](https://pantry.pejlab.org/), [RatGTEx](https://ratgtex.org/), and other large-scale efforts spanning functional genomics, population genetics, and translational genomics.
+
+Selected publication:
+
+- [***Multimodal analysis of RNA sequencing data powers discovery of complex trait genetics.***](https://www.nature.com/articles/s41467-024-54840-8)<br>
+D Munro, N Ehsan, SM Esmaeili-Fard, A Gusev, AA Palmer, P Mohammadi.<br>
+*Nature Communications, 2024.*
+- [***Data-driven RNA phenotyping captures genetically regulated dimensions of the transcriptome.***](https://pmc.ncbi.nlm.nih.gov/articles/PMC12239606/)<br>
+*Preprint, 2026.*
+
+## Deep learning, allele-specific signals, and personalized medicine
+
+We are interested in how foundation models and other deep learning systems can be combined with mechanistic and statistical models in integrative genomics, rather than treated as stand-alone predictors. A particular emphasis is allele-specific signal, where personal-genome context, cis-regulatory variation, and transcriptome-derived measurements can be used together to evaluate what these models capture about regulatory function.
+
+This is an active area of work in the lab. We are exploring how sequence-based deep learning and foundation models can be fused with more conventional genomics models to improve interpretation of personal genomes and push the envelope in personalized medicine, while remaining grounded in interpretable biological and statistical structure.

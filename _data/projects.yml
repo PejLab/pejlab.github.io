@@ -50,3 +50,12 @@
     - name: NIDA Center
       url: https://ratgenes.org
 
+- name: phASER
+  description: phASER enables haplotype phasing and haplotypic expression analysis from RNA-seq, with a particular focus on allele-specific signals and regulatory interpretation.
+  links:
+    - name: GitHub
+      url: https://github.com/secastel/phaser
+    - name: Paper
+      url: https://www.nature.com/articles/ncomms12817
+    - name: phASER tune-up
+      url: https://github.com/secastel/phaser

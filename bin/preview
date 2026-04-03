@@ -1,0 +1,17 @@
+#!/bin/zsh
+
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+
+if [ -d "$HOME/.rbenv" ]; then
+  export PATH="$HOME/.rbenv/bin:$PATH"
+  eval "$(rbenv init - zsh)"
+fi
+
+export SDKROOT="${SDKROOT:-$(xcrun --show-sdk-path)}"
+export CPLUS_INCLUDE_PATH="${CPLUS_INCLUDE_PATH:-$SDKROOT/usr/include/c++/v1}"
+export MAKE="${MAKE:-make CXX=clang++}"
+export BUNDLE_GEMFILE="$ROOT_DIR/Gemfile.preview"
+
+exec bundle exec jekyll serve --host 127.0.0.1 --source "$ROOT_DIR" "$@"

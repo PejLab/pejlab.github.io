@@ -2,16 +2,19 @@
   title: PI, Associate Professor
   image: Pejman_Mohammadi_gray.jpg
   bio: >-
-    Pejman is a computational biologist with a background primarily in
-    statistical machine learning and Bayesian data modeling. His current
-    research interests span over practical and theoretical issues that arise in
-    genomics and personalized medicine, focusing on quantitative analysis of
-    regulatory variation in the genome and its application to rare diseases.
+    Pejman is a computational biologist whose work sits at the intersection of
+    statistical machine learning, probabilistic modeling, and genomics. His lab
+    develops quantitative frameworks that formalize biochemical principles and
+    regulatory mechanisms to improve inference from noisy, high-dimensional
+    genomic data, with applications to regulatory variation, transcriptomics,
+    rare disease, and personalized medicine.
     </p><p>
-    Pejman jointed UW as an Associate Professor in 2023. Prior to that he was at Scripps Research in San Diego as a tenure track Assistant Professor in
-    2018, later as an Associate Professor from 2021. He holds a Ph.D. in
-    Computational Biology from ETH Zurich and carried out postdoctoral work at
-    the NY Genome Center and Columbia University from 2015 to 2017.
+    Pejman joined the University of Washington and Seattle Children's Research
+    Institute as an Associate Professor in 2023. Prior to that, he was on the
+    faculty at Scripps Research in San Diego, first as an Assistant Professor
+    and later as an Associate Professor. He holds a Ph.D. in Computational
+    Biology from ETH Zurich and completed postdoctoral training at the New York
+    Genome Center and Columbia University.
     </p><p>
     <a href="mailto:pejmanm@uw.edu">pejmanm@uw.edu</a>
 
@@ -60,19 +63,6 @@
     that can lead to a better connection between genotype and phenotype and a
     better systematic understanding of the information flow across different
     omics layers. "By the way, our ultimate goal is improving human health :)".
-
-- name: Mehreen Mughal
-  title: Postdoc
-  image: Mehreen_gray.jpg
-  bio: >-
-    Mehreen joined the group in 2024. She is a population geneticist interested
-    in understanding human adaptation and evolutionary history. She is working
-    on developing methods to understand the relationship between ancestry and
-    gene expression. Her previous work involved developing statistical methods
-    for analyzing human genome data, particularly in identifying and
-    differentiation among different evolutionary forces including positive
-    selection and adaptive introgression. She has a PhD in Bioinformatics and
-    Genomics from Penn State and did her postdoc at Cold Spring Harbor Labs.
 
 - name: Katharine Chen
   title: Postdoc
@@ -130,33 +120,9 @@
   title: PhD Student
   image: Shiyu_Wan_gray.jpg
   bio: >-
-    I am interested in applying deep learning techniques to analyze public
-    health and biological data. Prior to joining the lab, I worked on developing
-    a novel deep learning method and a feature importance test for analyzing
-    complex survival data. I hold a Bachelor of Medical Science in Public Health
-    and a B.A. in Economics from Peking University, as well as an M.S. in
+    Shiyu is interested in combining deep learning with statistical genomics to
+    study regulatory variation and allele-specific signals. Prior to joining the
+    lab, she developed deep learning and feature-importance methods for complex
+    survival data. She holds a Bachelor of Medical Science in Public Health and
+    a B.A. in Economics from Peking University, as well as an M.S. in
     Biostatistics from the University of North Carolina at Chapel Hill.
-
-- name: Sarah Silverstein
-  title: MD-PhD Student
-  image: Sarah_Silverstein_gray.jpeg
-  bio: >-
-    Sarah is a fourth-year medical student at Rutgers New Jersey Medical School
-    and current PhD student with the Rutgers-NIH graduate partnership program.
-    She joined the lab of Carsten G Bönnemann MD at the NNDCS/NIH and David
-    Adams MD PhD at the Undiagnosed Diseased Program/NIH in 2020. Her thesis
-    project focuses on using whole transcriptomic sequencing to improve
-    molecular diagnosis in genome and exome negative rare disease patients.
-    Upon graduation, she plans on pursuing clinical training in pediatric
-    neurology with a focus in neurogenetics.
-
-- name: Congyu Hang
-  title: Master's Student
-  image: Congyu_Hang_gray.jpg
-  bio: >-
-    She holds a B.S. in Statistics Specialist Quantitative Finance from
-    University of Toronto. She is currently pursuing her master of Biostatistics
-    at University of Washington. Her current project is about the application of
-    machine learning methods for modeling ASE data to uncover latent regulatory
-    variation in gene expression.
-

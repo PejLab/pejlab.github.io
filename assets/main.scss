@@ -40,6 +40,104 @@ main {
     border-radius: 20px;
 }
 
+.hero-panel {
+    margin: 2rem 0 2.5rem;
+    padding: 2rem;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #f7f9fb 0%, #ffffff 100%);
+    border: 1px solid #e3e8ee;
+}
+
+.hero-panel h1 {
+    margin-bottom: 1rem;
+    font-size: 1.9rem;
+    line-height: 1.15;
+}
+
+.hero-kicker {
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #6a7683;
+}
+
+.quick-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+}
+
+.quick-links a {
+    display: inline-block;
+    padding: 0.55rem 0.9rem;
+    border-radius: 999px;
+    background-color: #eef3f8;
+    color: #21425d;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.feature-grid,
+.spotlight-grid,
+.highlight-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin: 1.25rem 0 2rem;
+}
+
+.feature-card,
+.spotlight-card,
+.highlight-item {
+    padding: 1.25rem;
+    border: 1px solid #dde5ec;
+    border-radius: 18px;
+    background-color: #fbfdff;
+}
+
+.feature-card h3,
+.spotlight-card h3,
+.highlight-item h3 {
+    margin-bottom: 0.5rem;
+}
+
+.feature-card p,
+.spotlight-card p,
+.highlight-item p {
+    margin-bottom: 0;
+}
+
+.spotlight-links {
+    margin-top: 0.85rem;
+}
+
+.spotlight-links span {
+    color: #8a98a6;
+}
+
+.alumni-toggle {
+    margin-top: 1rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid #dde5ec;
+    border-radius: 18px;
+    background-color: #fbfdff;
+}
+
+.alumni-toggle summary {
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.research-figure {
+    display: block;
+    max-width: 760px;
+    width: 100%;
+    margin: 1.5rem auto;
+}
+
 .emphasis-box {
     border-radius: 20px;
     background: linear-gradient(135deg, rgba(252,185,0,1) 0%, rgba(255,105,0,1) 100%);
@@ -100,6 +198,15 @@ hr {
 }
 
 @media (min-width: 768px) {
+    .feature-grid,
+    .spotlight-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .highlight-list {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
     .member, .alum {
         flex-direction: row;
         align-items: flex-start;
@@ -114,4 +221,3 @@ hr {
         text-align: left;
     }
 }
-
