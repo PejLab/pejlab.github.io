@@ -10,9 +10,9 @@ Our research is centered on regulatory genomics and transcriptomics, with strong
 
 ## Rare disease genomics
 
-Transcriptome data can reveal pathogenic regulatory effects that are missed by genome or exome sequencing alone. We develop methods that use allelic expression, dosage outliers, and tissue-aware transcriptome analysis to improve molecular diagnosis in rare disease settings, particularly when likely causal coding variants are absent.
+![ANEVA-DOT figure](/assets/images/research_1.png){: .research-figure-side}
 
-![ANEVA-DOT figure](/assets/images/research_1.png)
+Transcriptome data can reveal pathogenic regulatory effects that are missed by genome or exome sequencing alone. We develop methods that use allelic expression, dosage outliers, and tissue-aware transcriptome analysis to improve molecular diagnosis in rare disease settings, particularly when likely causal coding variants are absent.
 
 These efforts include statistical tests for regulatory aberration, models for prioritizing tissues for transcriptome profiling, and collaborations that keep the work grounded in real diagnostic settings. We collaborate broadly with clinicians and scientists working on pediatric and undiagnosed rare disease cohorts.
 
@@ -49,11 +49,11 @@ N Ehsan, Bence M Kotis, SE Castel, EJ Song, N Mancuso, P Mohammadi.<br>
 
 ## Multimodal transcriptomics and complex trait genomics
 
+![Pantry schematic](/assets/images/Rat_xTWAS.png){: .research-figure-side}
+
 RNA sequencing supports a wide range of phenotypes beyond bulk gene expression, including isoform usage, allele-specific expression, splicing, alternative polyadenylation, transcription initiation, and RNA stability. We develop extensible computational frameworks that turn these measurements into coherent quantitative phenotypes and analyze them jointly with genetic data.
 
 This work is closely tied to our efforts in complex trait genetics. By expanding the set of RNA-derived phenotypes that can be mapped and integrated with association studies, we improve the biological interpretation of GWAS signals and create more informative entry points for TWAS, colocalization, and downstream mechanistic analyses. Recent work in this area includes Pantry and the LaDDR preprint on data-driven RNA phenotyping.
-
-![Pantry schematic](/assets/images/Rat_xTWAS.png){: .research-figure}
 
 Representative public resources and collaborations include [Pantry](https://pantry.pejlab.org/), [RatGTEx](https://ratgtex.org/), and other large-scale efforts spanning functional genomics, population genetics, and translational genomics.
 
