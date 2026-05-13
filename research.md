@@ -53,7 +53,7 @@ RNA sequencing supports a wide range of phenotypes beyond bulk gene expression, 
 
 This work is closely tied to our efforts in complex trait genetics. By expanding the set of RNA-derived phenotypes that can be mapped and integrated with association studies, we improve the biological interpretation of GWAS signals and create more informative entry points for TWAS, colocalization, and downstream mechanistic analyses. Recent work in this area includes Pantry and the LaDDR preprint on data-driven RNA phenotyping.
 
-![Pantry schematic](/assets/images/research_3.png){: .research-figure}
+![Pantry schematic](/assets/images/Rat_xTWAS.png){: .research-figure}
 
 Representative public resources and collaborations include [Pantry](https://pantry.pejlab.org/), [RatGTEx](https://ratgtex.org/), and other large-scale efforts spanning functional genomics, population genetics, and translational genomics.
 
